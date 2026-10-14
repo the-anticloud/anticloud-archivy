@@ -1,0 +1,38 @@
+{
+  "project": "ARCHIVY",
+  "slug_source": "GitHub search API exact-name top match (candidates quoted)",
+  "picked_slug": "archivy/archivy",
+  "search_url": "https://api.github.com/search/repositories?q=archivy&per_page=5",
+  "search_status": 200,
+  "candidates": [
+    {
+      "full_name": "archivy/archivy",
+      "stars": 3280,
+      "license": "MIT"
+    },
+    {
+      "full_name": "archivy/archivy-docker",
+      "stars": 60,
+      "license": "MIT"
+    },
+    {
+      "full_name": "archivy/archivy-hn",
+      "stars": 49,
+      "license": "MIT"
+    },
+    {
+      "full_name": "archivy/awesome-archivy",
+      "stars": 27,
+      "license": null
+    },
+    {
+      "full_name": "archivy/archivy-git",
+      "stars": 13,
+      "license": null
+    }
+  ],
+  "commit_url": "https://api.github.com/repos/archivy/archivy/commits/master",
+  "commit_status": 200,
+  "default_branch": null,
+  "commit_response_excerpt": "{\"sha\": \"bdcdd39ac6cf9f7b3709b984d8be2f0fa898139e\", \"commit\": {\"message\": \"v1.7.7 fixing dependency conflicts...\", \"committer_date\": \"2023-07-25T23:32:46Z\"}}"
+}
